@@ -1,0 +1,20 @@
+{
+  "name": "cordova-app-plugin",
+  "version": "2.1.0",
+  "description": "Cordova App Plugin",
+  "cordova": {
+    "id": "cordova-app-plugin",
+    "platforms": [
+      
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0"
+}
