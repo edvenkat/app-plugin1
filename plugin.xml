@@ -19,6 +19,6 @@ xmlns:android="http://schemas.android.com/apk/res/android"
       <dependency id="cordova-plugin-ionic-keyboard" url="https://github.com/ionic-team/cordova-plugin-ionic-keyboard" /> 
       <dependency id="cordova-plugin-listpicker" url="https://github.com/roberthovhannisyan/PhoneGap-Plugin-ListPicker" />
       <dependency id="phonegap-plugin-mobile-accessibility" url="https://github.com/phonegap/phonegap-mobile-accessibility" />
-      <dependency id="fr._46cl.focus" url="https://github.com/46cl/cordova-android-focus-plugi" />       
+      <dependency id="fr._46cl.focus" url="https://github.com/46cl/cordova-android-focus-plugin" />       
     </platform>
 </plugin>
